@@ -134,7 +134,7 @@ if __name__ == "__main__":
     print()
 
     # ---------------- Рюкзак ----------------
-    print("=== Задача 2: Рюкзаr")
+    print("=== Задача 2: Рюкзак")
 
     capacity, items = generate_knapsack_instance()
 
